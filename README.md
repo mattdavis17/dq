@@ -6,3 +6,7 @@
 ## Section 2:  Some tools 
 - weka
 - rapidminer
+## Section 3:  Yup
+- Yeah
+- Yes
+- Uh-huh
