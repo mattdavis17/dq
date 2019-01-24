@@ -9,4 +9,13 @@
 ## Section 3:  Yup
 - Yeah
 - Yes
+
+- Yuppers
+
+# New Tools
+- Tableau 
+- R
+
+# New Tab
+  - Yes
 - Another Thing
